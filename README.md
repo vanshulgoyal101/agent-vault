@@ -10,7 +10,7 @@
 
 ### 1. Install AgentVault
 ```bash
-pip install agent-vault
+pip install agent-vault-py
 ```
 
 ### 2. Wrap Your Agent
