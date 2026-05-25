@@ -1,8 +1,7 @@
 # AgentVault: Secure DeFi Execution & Cryptographic Identity Layer for AI Agents
 
 **Architectural Spec & Threat Model (MVP)**  
-*Author: Senior Web3 Security Architect (ex-Coinbase)*  
-*Status: Draft Proposal (Approved)*
+
 
 ---
 
