@@ -10,11 +10,7 @@
 
 ### 1. Install AgentVault
 ```bash
-# Standalone repository installation:
-pip install "git+https://github.com/YOUR_GITHUB_USERNAME/agent-vault.git"
-
-# Monorepo installation:
-pip install "git+https://github.com/YOUR_GITHUB_USERNAME/monorepo-name.git#subdirectory=agent_vault"
+pip install "git+https://github.com/vanshulgoyal101/agent-vault.git"
 ```
 
 ### 2. Wrap Your Agent
